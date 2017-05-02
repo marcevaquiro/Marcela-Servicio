@@ -1,7 +1,7 @@
 # Marcela-Servicio
 Servicio que realiza una multiplicación
 
-Dependencias mínimas del servicio:
+Dependencias mínimas para build del servicio:
 
 Server Tomcat 8.0.2
 Jersey 
